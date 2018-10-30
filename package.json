@@ -22,7 +22,7 @@
     "lodash": "^4.13.1",
     "md5": "^2.1.0",
     "pixl-xml": "git+https://git@github.com/revdane/pixl-xml.git",
-    "request": "^2.72.0",
+    "request": "git+https://git@github.com/revdane/request.git",
     "string-format-js": "^0.1.8"
   },
   "repository": "https://github.com/revdane/last.fm.api.git",
